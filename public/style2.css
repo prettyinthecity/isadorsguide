@@ -1,0 +1,41 @@
+body {
+  background-color: #92b0a4;
+}
+
+h1 {
+    color: #416e5d;
+  }
+
+/* unvisited link */
+a:link {
+  color: #873979;
+}
+
+/* visited link */
+a:visited {
+  color: #873979;
+}
+
+/* mouse over link */
+a:hover {
+  color: #416e5d
+}
+
+/* selected link */
+a:active {
+  color: #416e5d
+}
+
+*{
+  font-family: monospace;
+  color:#042602 
+}
+
+img {
+  width: 300px;
+  heigth: 300px;
+}
+
+.imageDiv {
+  width: 50%;
+}
