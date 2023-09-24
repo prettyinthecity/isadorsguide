@@ -30,3 +30,8 @@ a:active {
   font-family: monospace;
   color:#042602 
 }
+
+img {
+  width: 300px;
+  heigth: 300px;
+}
