@@ -18,17 +18,17 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: #416e5d
+  color: #416e5d;
 }
 
 /* selected link */
 a:active {
-  color: #416e5d
+  color: #416e5d;
 }
 
 *{
   font-family: monospace;
-  color:#042602 
+  color:#92b0a4;
 }
 
 img {
