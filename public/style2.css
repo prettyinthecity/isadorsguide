@@ -8,22 +8,22 @@ h1 {
 
 /* unvisited link */
 a:link {
-  color: #873979;
+  color: #92b0a4;
 }
 
 /* visited link */
 a:visited {
-  color: #873979;
+  color: #92b0a4;
 }
 
 /* mouse over link */
 a:hover {
-  color: #416e5d;
+  color: #92b0a4;
 }
 
 /* selected link */
 a:active {
-  color: #416e5d;
+  color: #92b0a4;
 }
 
 *{
